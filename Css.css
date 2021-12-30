@@ -1,0 +1,51 @@
+body {
+    background-color: lightskyblue;
+    margin: auto;
+    text-align: center;
+}
+
+.text {
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 50px;
+    background-color: yellow;
+    top: 10px;
+    position: relative;
+}
+
+.textbutton {
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 50px;
+    background-color: darkslateblue;
+    top: 10px;
+    position: relative;
+}
+
+.textbutton:hover{
+    background-color: blueviolet;
+}
+
+.center{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.valor {
+    font-weight: bold;
+    font-size: 20pt;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 50px;
+    border: black;
+    top: 10px;
+    position: relative;
+}
